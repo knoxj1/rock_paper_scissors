@@ -1,1 +1,1 @@
-A basic rock/paper/scissors game. My first attempt at JavaScript.
+A basic rock/paper/scissors game.
